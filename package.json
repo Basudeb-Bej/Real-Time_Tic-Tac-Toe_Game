@@ -1,0 +1,26 @@
+{
+  "name": "real-time_tic-tac-toe_game",
+  "version": "1.0.0",
+  "description": "Two players playing a game in real time",
+  "homepage": "https://github.com/Basudeb-Bej/Real-Time_Tic-Tac-Toe_Game#readme",
+  "bugs": {
+    "url": "https://github.com/Basudeb-Bej/Real-Time_Tic-Tac-Toe_Game/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Basudeb-Bej/Real-Time_Tic-Tac-Toe_Game.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  },
+  "devDependencies": {}
+}
