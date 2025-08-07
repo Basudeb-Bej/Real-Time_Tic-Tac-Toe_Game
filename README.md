@@ -49,4 +49,4 @@ npm install
 npm start
 
 # 5. Visit
-http://localhost:3000
+http://localhost:8000
