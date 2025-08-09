@@ -37,7 +37,7 @@ A web-based Tic-Tac-Toe game for **two players** to play in **real time** using 
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/real-time-tic-tac-toe-game.git
+git clone https://github.com/Basudeb-Bej/Real-Time_Tic-Tac-Toe_Game.git
 
 # 2. Navigate to the folder
 cd real-time-tic-tac-toe-game
